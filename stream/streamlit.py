@@ -24,7 +24,7 @@ st.markdown(
          unsafe_allow_html=True
      )
 
-local_host = 'http://192.168.70.4:8005/'
+local_host = 'http://192.168.70.4:8004/'
 
 session_state = st.session_state
 
