@@ -1,0 +1,23 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# DRF
+/static/
+/media/
+
+# Streamlit
+/.streamlit/
+**/.streamlit/
+
+# SimpleJWT
+/jwt_key.jwk
+/jwt_key.jwk.pub
+
+# Virtual environment
+venv/
+env/
